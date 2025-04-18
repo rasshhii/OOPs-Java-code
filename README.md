@@ -1,2 +1,2 @@
-# OOPs-Lab-Codes-1
+# OOPs-Codes-java
 This is my first Git Repository
